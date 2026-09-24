@@ -36,13 +36,13 @@ In SQL `Select * from Table_Name` is used to print table in console.
 **Language:** SQL  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-23T17:31:23.133Z  
+**Submitted:** 2026-09-24T07:49:59.186Z  
 
 ```sql
 /*Click on Submit to check the output.
 Click on Next to proceed */
 
-SELECT * from employee;
+select * from employee;
 ```
 
 ---
