@@ -25,24 +25,12 @@
 
 | Language | Solutions |
 |:---:|:---:|
-| c_cpp | **47** |
-| C++ | **29** |
-| JavaScript | **14** |
+
 | SQL | **8** |
 | default | **1** |
 
-## 📂 Repository Structure
 
-```
-📦 coding-solutions/
-├── leetcode/
-│   ├── easy/
-│   ├── medium/
-│   └── hard/
-├── hackerrank/
-├── codechef/
-└── gfg/
-```
+
 
 ---
 
