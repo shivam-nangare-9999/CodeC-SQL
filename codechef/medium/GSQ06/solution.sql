@@ -1,4 +1,9 @@
 /* Solution as follows */
 
-INSERT INTO employee (Employee_id,Employee_Name,Department)
-VALUES (6,'Brandon Kim','Operations');
+INSERT INTO employee(Id,Name,Age,Address)
+
+/* email id as a field is not a column of the table defined */
+VALUES  (1, 'John Smith', 25,  '123 Main St'),
+        (2, 'Sarah Johnson', 30, '456 Broadway');
+
+SELECT * FROM employee;
