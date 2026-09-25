@@ -1,8 +1,6 @@
-/* Solution as follows */
+/* Solution as follows*/
 
-CREATE TABLE employee
-(
-    Employee_id INT , /* Integer Data type assigned to the variable */
-    Employee_Name   TEXT, /* TEXT Data type assigned to the variable */
-    Department  TEXT /* TEXT Data type assigned to the variable */
-);
+/*Lets add the details of 2 employees to the table 'employee' */
+INSERT INTO employee (Employee_id,Employee_Name,Department)
+VALUES (4,'Marcus Garcia','Product'),
+       (5,'Samantha Park','Hr');
