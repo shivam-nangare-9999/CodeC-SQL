@@ -34,7 +34,7 @@ Your table is named 'employee' and has the following columns
 **Language:** SQL  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-26T06:39:09.602Z  
+**Submitted:** 2026-09-27T17:56:14.383Z  
 
 ```sql
 /* Solution as follows */
